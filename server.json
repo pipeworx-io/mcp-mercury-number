@@ -1,8 +1,8 @@
 {
   "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
   "name": "io.github.pipeworx-io/mercury-number",
-  "title": "mercury numuer",
-  "description": "mercury-number MCP — wraps StupidAPIs (requires X-API-Key)",
+  "title": "Mercury Number",
+  "description": "mercury-number MCP \u2014 wraps StupidAPIs (requires X-API-Key)",
   "version": "0.1.0",
   "websiteUrl": "https://pipeworx.io/packs/mercury-number",
   "repository": {
